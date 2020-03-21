@@ -1,0 +1,14 @@
++lly>   ly_root1 >   wm > hm  >   方向-水平   >   ps-10   >pe-10
+    +lly>   ly_root2 >   ww > hm  >   方向-水平   >   ps-10   >pe-10
+        *tv>     tv_title1 >     ww > hw > 字体10 > 加粗 > 居中
+    -lly
+        *tv>     tv_title2 >     ww > hw > 字体10 > 加粗 > 居中
+        *tv>     tv_title3 >     ww > hw > 字体10 > 加粗 > 居中
+        *tv>     tv_title4 >     ww > hw > 字体10 > 加粗 > 居中
+    +lly>   ly_root3 >   ww > hw  >   方向-水平   >   ps-10   >pe-10
+        *tv>     tv_title5 >     ww > hw > 字体10 > 加粗 > 居中
+        *tv>     tv_title6 >     ww > hw > 字体10 > 加粗 > 居中
+    -lly
+        *tv>     tv_title7 >     ww > hw > 字体10 > 加粗 > 居中
+        *tv>     tv_title8 >     ww > hw > 字体10 > 加粗 > 居中
+-lly

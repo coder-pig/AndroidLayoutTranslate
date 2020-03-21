@@ -1,0 +1,25 @@
++ cly > cly_root > wm > hm > bg-@d/bg_mine
+    + rly > rly_top_bar > w-0 > h-56 > stsp > etep > tttp > bg-#000000
+        * bt > bt_back > w-56 > h-56 > t-返回 > 左对齐p
+        * tv > tv_title > ww > hw > 居中p > t-个人中心 > ts18 > 变粗 > 变白 > 居中
+    - rly
+    + cv > cv_login > w-0 > h-100 > stsp > etep > ttb-@id/rly_top_bar > ms-16 > me-16 > mt-90 > 高度-0 > 圆角-15
+        + cly > cly_login > wm > hm
+            * iv > iv_cover > w-64 > h-64 > ms-16 > stsp > tttp > btbp > src-@m/ic_launcher
+            * tv > tv_login_hint > ww > hw > ste-@id/iv_cover > ms-12 > tttp > btbp > t-请点击登录 > ts-17 > tc-@c/gray
+            * iv > iv_login_right > w-24 > h-24 > etep > tttp> btbp > me-9 > stf > src-@d/ic_back_right
+        - cly
+    - cv
+    + cv > cv_first > w-0 > h-220 > stsp > etep > ttb-@id/cv_login > ms-16 > me-16 > mt-20 > 高度-0 > 圆角-15
+        + cly > cly_first > wm > hm
+            * tv > tv_my_order > w-0 > h-55 > stsp > etep > tttp > ps-50 > pe-0 > > 竖中 > t-我的订单 > ts14 > tc-@c/gray_medium
+            * iv > iv_my_order > w-24 > h-24 > stsp > ttt-@id/tv_my_order > btb-@id/tv_my_order > ms-16 > src-@d/ic_order > stf
+            * iv > iv_my_order_right > w-24 > h-24 > etep > ttt-@id/tv_my_order > btb-@id/tv_my_order > me-9 > stf > src-@d/ic_back_right
+            * v > v_my_order_divider > w-0 > h-1px > etep > sts-@id/tv_my_order > ttb-@id/tv_my_order > bg-@c/gray_hover
+            * tv > tv_exchange > w-0 > h-55 > stsp > etep > ttb-@id/v_my_order_divider > ps-50 > pe-0 > 竖中 > t-兑换 > ts14 > tc-@c/gray_medium
+            * iv > iv_exchange > w-24 > h-24 > stsp > ttt-@id/tv_exchange > btb-@id/tv_exchange > ms-16 > src-@d/ic_exchange_icon > stf
+            * iv > iv_exchange_right > w-24 > h-24 > etep > ttt-@id/tv_exchange > btb-@id/tv_exchange > me-9 > stf > src-@d/ic_back_right
+            * v > v_exchange_divider > w-0 > h-1px > etep > sts-@id/tv_exchange > ttb-@id/tv_my_order > bg-@c/gray_hover
+        - cly
+    - cv
+- cly

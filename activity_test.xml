@@ -1,0 +1,10 @@
+<androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.appcompat.widget.AppCompatTextView/>
+    <androidx.appcompat.widget.AppCompatButtom/>
+    <androidx.appcompat.widget.AppCompatSeekBar/>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+        <FrameLayout>
+            <androidx.recyclerview.widget.RecyclerView/>
+        </FrameLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
